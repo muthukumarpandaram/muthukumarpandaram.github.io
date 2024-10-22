@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started my Master's Studies in Computational Neuroscience at the [BCCN Berlin]()
+Started my Master's Studies in Computational Neuroscience at the [BCCN Berlin](https://www.bccn-berlin.de/)
