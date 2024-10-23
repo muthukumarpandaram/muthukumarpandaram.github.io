@@ -1,0 +1,3 @@
+[submodule "assets/overleaf_github"]
+	path = assets/overleaf_github
+	url = https://github.com/muthukumarpandaram/overleaf_github.git
