@@ -5,7 +5,7 @@ title: cv
 nav: true
 nav_order: 5
 cv_pdf: Muthukumar_Europass_CV_PhD.pdf
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+description: You can find my most updated CV here, if you need a pdf version you can download it using the pdf button here.
 toc:
   sidebar: left
 ---
