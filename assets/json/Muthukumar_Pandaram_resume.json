@@ -136,12 +136,12 @@
       "studyType": "Master of Science - MS",
       "startDate": "2020-10-31",
       "endDate": "2023-09-30",
-      "score": "",
+      "score": "1.6 (German Grading System - 1 being the best on a scale of 1-5)",
       "courses": [
-        "null - Models of Neural Systems",
-        "null - Cognitive Neuroscience",
-        "null - Acquisition and Analysis of Neural Data",
-        "null - Models of Higher Brain Functions"
+        "Models of Neural Systems",
+        "Cognitive Neuroscience",
+        "Acquisition and Analysis of Neural Data",
+        "Models of Higher Brain Functions"
       ]
     },
     {
