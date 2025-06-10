@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Muthukumar
 middle_name:
 last_name: Pandaram
-email: muthukumar.pandaram@uibk.ac.at
+email: muthukumar[dot]pandaram[at]uibk[dot]ac[dot]at
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   I am currently an [ELLIS](https://ellis.eu/phd-postdoc) PhD student at the University of Innsbruck, Austria. My research focuses on robot perception and learning. I am passionate about neuro-inspired representation learning. 
   I am primarily part of the [Intelligent and Interactive Systems](https://iis.uibk.ac.at/start) research group at the Department of Computer Science. My primary supervisor is [Prof. Justus Piater](https://iis.uibk.ac.at/people/justus) and I am co-supervised by [Prof. Matthias Bethge](https://bethgelab.org/) from the University of Tübingen.
