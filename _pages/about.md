@@ -17,7 +17,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 I am currently an [ELLIS](https://ellis.eu/phd-postdoc) PhD student at the University of Innsbruck, Austria. My research focuses on robot perception and learning. I am passionate about neuro-inspired representation learning. 
-I am primarily part of the [Intelligent and Interactive Systems](https://iis.uibk.ac.at/start) research group at the Department of Computer Science, University of Innsbruck. My primary supervisor is [Prof. Justus Piater](https://iis.uibk.ac.at/people/justus) and I am co-supervised by [Prof. Matthias Bethge](https://bethgelab.org/) from the University of Tübingen.
+I am primarily part of the [Intelligent and Interactive Systems](https://iis.uibk.ac.at/start) research group at the Department of Computer Science, University of Innsbruck. My primary supervisor is [Prof. Justus Piater](https://iis.uibk.ac.at/people/justus) and I am co-supervised by [Assoz.Prof. Antonio Rodríguez-Sánchez](https://iis.uibk.ac.at/people/antonio). My ELLIS co-supervisor is [Prof. Matthias Bethge](https://bethgelab.org/) from the University of Tübingen.
 
 I did my Master's in Computational Neuroscience at the [Bernstein Center for Computational Neuroscience, Berlin](https://www.bccn-berlin.de/) (Degree jointly awarded by the Technical University of Berlin and Humboldt University of Berlin) and Bachelor's in Mechanical Engineering at PSG College of Technology, Coimbatore, India. 
 
